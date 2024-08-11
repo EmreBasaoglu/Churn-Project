@@ -68,5 +68,5 @@ If you would like to contribute to this project, please submit a pull request. B
 Contact
 For questions or feedback regarding the project, please contact me:
 
-Email: emre.basoglu@example.com
+Email: emrebsglll@gmail.com
 GitHub: EmreBasoglu
